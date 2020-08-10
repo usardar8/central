@@ -1,6 +1,6 @@
  apt-get update
  apt-get install git -y
-git --version
+ git --version
  git config --global user.name "umar"
  git config  --global user.email "usardar8@gmail.com"
 
